@@ -36,8 +36,8 @@
 ---
 
 ### 📫 **How to reach me**:  
-- **Email**: shyamsinh8@gmail.com  
-- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/shyamsinh-parmar)  
+- **Email**: parmarshyamsingh8@gmail.com  
+- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/parmar-shyamsingh-665584107/)  
 - **GitHub**: Check out my projects right here! 👇
 
 ---
