@@ -1,10 +1,60 @@
-Hi there 👋 I'm Shyamsinh Parmar!
 
-🔭 I’m currently working on building innovative SaaS applications, custom voice AI bots, and machine learning solutions to solve real-world problems.
-🌱 I’m currently learning more about advanced AI integrations, Twilio Voice, and expanding my expertise in ReactJS.
-👯 I’m looking to collaborate on full-stack development projects, AI-based applications, and cloud architecture solutions.
-🤔 I’m looking for help with scaling SaaS products and implementing cutting-edge machine learning techniques for various industries.
-💬 Ask me about backend development, chatbot development, MS SQL, cloud deployments (AWS), and anything tech-related!
-📫 How to reach me: You can reach me at parmarshyamsingh8@gmail.com or connect with me on LinkedIn.
-😄 Pronouns: He/Him
-⚡ Fun fact: When I’m not coding, I love traveling to scenic places like Lonavala and Mahabaleshwar or trying out different local cuisines. I’m also a fan of strategic games!
+
+# Hi there! 👋 I'm **Shyamsinh Parmar** 🚀
+
+👨‍💻 **Full-Stack Developer | Backend Specialist | Machine Learning Enthusiast**  
+🌟 Passionate about building scalable, efficient, and user-friendly applications. With over 6 years of experience, I thrive on solving complex challenges and turning innovative ideas into reality!
+
+---
+
+### 🛠 **What I'm working on**:  
+- Developing **SaaS applications** that leverage cutting-edge tech to streamline business processes.  
+- Creating **Voice AI bots** using **Twilio** and **ChatGPT** for enhanced customer interaction.  
+- Designing intelligent **chatbots** and **machine learning solutions** that make life easier!
+
+---
+
+### 🌱 **What I'm learning**:  
+- Expanding my expertise in **ReactJS** for dynamic web applications.  
+- Delving deeper into **advanced AI models** and **NLP techniques** to build smarter systems.
+
+---
+
+### 🤝 **Let’s collaborate on**:  
+- **AI-powered solutions** to elevate customer experiences.  
+- **Full-stack web development** projects (Node.js, Python, AWS).  
+- Building robust **cloud architectures** using **AWS**.
+
+---
+
+### 💬 **Ask me about**:  
+- Backend development with **Node.js** & **Python**.  
+- Deploying applications on **AWS** for scalability.  
+- Integrating **Twilio** for voice and messaging solutions.  
+- **Custom chatbot development** (Dialogflow, Amazon Lex, ManyChat).
+
+---
+
+### 📫 **How to reach me**:  
+- **Email**: shyamsinh8@gmail.com  
+- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/shyamsinh-parmar)  
+- **GitHub**: Check out my projects right here! 👇
+
+---
+
+### ⚡ **Fun facts**:  
+- When I’m not coding, you’ll find me exploring nature around **Lonavala** or enjoying local delicacies!  
+- I’m also a big fan of **strategy games** and love the challenge of a good puzzle 🧩.  
+- I've recently started diving into **React Native** to expand my mobile development skills!
+
+---
+
+### 🏅 **Skills & Tools**:  
+- **Languages**: JavaScript (Node.js), Python, SQL  
+- **Cloud Platforms**: AWS, Twilio  
+- **Frameworks**: NestJS, ReactJS, Express  
+- **Databases**: MongoDB, MS SQL  
+- **DevOps**: Docker, CI/CD  
+- **Other Tech**: Dialogflow, ChatGPT, ManyChat
+
+---
