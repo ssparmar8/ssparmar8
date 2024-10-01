@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm **Shyamsinh Parmar** 🚀
 
 👨‍💻 **Full-Stack Developer | Backend Specialist | Machine Learning Enthusiast**  
-🌟 Passionate about building scalable, efficient, and user-friendly applications. With over 6 years of experience, I thrive on solving complex challenges and turning innovative ideas into reality!
+🌟 Passionate about building scalable, efficient, and user-friendly applications. With over 8 years of experience, I thrive on solving complex challenges and turning innovative ideas into reality!
 
 ---
 
